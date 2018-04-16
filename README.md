@@ -6,10 +6,11 @@ Memory game is a easy to use fun game created with DOM API in JavaScript, includ
 
 1. ***HOW TO PLAY THE GAME***
 
-- START BY CLICKING ANY OF THE CARDS ONNTYE DECK.
-- ON CLICKING THE CARD SHALL FLIP OVER AND DISPLAY ITS CONTENTS
-- NOW CLICK ON THE CARD WITH SIMILAR CONTENTS
-AN ILLUSTRATIONS HAS BEEN PROVIDED BELOW
+- Start by clicking any random card on the deck.
+- Once clicked over, the card shall flip and reveal its contents
+- Now click on the card that you think has got similar contents.
+- After every two cards have been clicked "MOVES" increases by one.
+An Illustration has been provided below:
 
 ![Start](https://github.com/rajdeepgill05/memoryGame/blob/master/Capture.PNG?raw=true)
 
